@@ -9,8 +9,8 @@ https://stalwart-crostata-71ffca.netlify.app
 
 ##  Ekran Görüntüsü
 Aşağıdaki ekran görüntüsü proje arayüzüne aittir:
+<img width="1919" height="1020" alt="Ekran görüntüsü 2026-03-12 014152" src="https://github.com/user-attachments/assets/97298263-4725-4fff-abe8-58ed45df7835" />
 
-![Screenshot](./screenshot.png)
 
 
 ## 🚀 Özellikler
