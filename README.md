@@ -1,4 +1,4 @@
-# 🎯 Todo App – React + Vite + Tailwind
+Todo App – React + Vite + Tailwind
 
 Modern bir frontend geliştirme eğitimi kapsamında hazırlanmış gelişmiş bir Todo uygulaması.  
 Tamamen React & Vite ile yaptım, Tailwind CSS ile stillendirildim.
@@ -44,6 +44,13 @@ Aşağıdaki ekran görüntüsü proje arayüzüne aittir:
 
 ## 💾 Kurulum ve Çalıştırma
 
-```bash
+bash
 npm install
 npm run dev
+
+## 📁 Proje Yapısı
+src/
+  components/
+  pages/
+  interfaces/
+  constants/
