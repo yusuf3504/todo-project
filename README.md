@@ -1,48 +1,48 @@
 Todo App – React + Vite + Tailwind
 
-Modern bir frontend geliştirme eğitimi kapsamında hazırlanmış gelişmiş bir Todo uygulaması.  
-Tamamen React & Vite ile yaptım, Tailwind CSS ile stillendirildim.
+An advanced Todo application created as part of a modern frontend development course.
+Built entirely with React & Vite and styled using Tailwind CSS.
 
-##  Canlı Demo
+## Live Demo
 https://stalwart-crostata-71ffca.netlify.app
 
 
-##  Ekran Görüntüsü
-Aşağıdaki ekran görüntüsü proje arayüzüne aittir:
+##  Screenshot
+The screenshot below shows the project interface:
 <img width="1919" height="1020" alt="Ekran görüntüsü 2026-03-12 014152" src="https://github.com/user-attachments/assets/97298263-4725-4fff-abe8-58ed45df7835" />
 
 
 
-## 🚀 Özellikler
+## 🚀 Features
 
-### ✔ CRUD İşlemleri
-- Görev ekleme
-- Görev listeleme
-- Görev güncelleme
-- Görev silme
+###  CRUD Operations
+- Add task
+- List tasks
+- Update task
+- Delete task
 
-### ✔ Ek Özellikler
-- 📅 Takvim görünümü  
-- 🗓 Takvimden görev ekleme (modal)
-- 🎉 Görev tamamlanınca konfeti efekti
-- 📊 Günlük hedef & ilerleme çubuğu
-- 🏷 Görev kategorileri + renk etiketleri
-- ⏰ Bitiş tarihi & gecikme uyarısı
-- 🔁 LocalStorage ile kalıcı veri
-- 📱 Tamamen responsive tasarım
+### ✔ Additional Features
+- 📅 Calendar view
+- 🗓 Add task from calendar (modal)
+- 🎉 Confetti effect upon task completion
+- 📊 Daily goal & progress bar
+- 🏷 Task categories + color tags
+- ⏰ Due date & overdue alert
+- 🔁 Persistent data via LocalStorage
+- 📱 Fully responsive design
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+## 🛠 Technologies Used
 - React (Vite)
 - Tailwind CSS
 - JavaScript (ES6+)
 - canvas-confetti
-- Netlify (Deploy)
+- Netlify (Deployment)
 
 ---
 
-## 💾 Kurulum ve Çalıştırma
+## 💾 Installation and Setup
 
 bash
 npm install
